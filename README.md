@@ -1,5 +1,8 @@
 # vertebrae_identification_FCNHMM_model
-## Title Vertebrae Identification and Localization Utilizing Fully Convolutional Networks and a Hidden Markov Model  
+## Title 
+Vertebrae Identification and Localization Utilizing Fully Convolutional Networks and a Hidden Markov Model  
+
+## Publisher
 Published on IEEE transaction on medical imaging: https://ieeexplore.ieee.org/abstract/document/8756197
 
 ## Abstract  
